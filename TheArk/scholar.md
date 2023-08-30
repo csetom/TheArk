@@ -1,0 +1,4 @@
+---
+tags: Intellect
+---
+ This skill represents knowledge and/or education in areas not covered under any other skill (such as alchemy, cooking, arcane lore, etc.). This may be restricted to a specific field (represented by specializations) or a general knowledge of a wide range of subjects. It is used to remember details, rumors, tales, legends, theories, important people, and the like, as appropriate for the subject in question. However, the broader the category, the fewer the details that can be recalled. It covers what the character himself can recall. Having another skill as a specialization of the scholar skill means that the character knows the theories and history behind the skill but can’t actually use it. Scholar can be useful with investigation to narrow a search for information.

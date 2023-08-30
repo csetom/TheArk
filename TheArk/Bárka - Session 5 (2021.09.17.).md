@@ -1,0 +1,19 @@
+---
+tags: Planning
+---
+<<currentTiddler>>
+Első közös kalandjuk után a csapat az úton megbeszéltekhez híven elkezdett keresni egy megfelelő helyet, egy "bázist" a vállalkozás elkezdéséhez. Találtak is egy megfizethető raktárhelyet, melynek bérelését már az első napokban megkezdték. Ami még hátra maradt az a vállalkozás pontos neve volt. Rengeteg ötletük volt, de egy sem volt olyan, amely mindenkinek egyenlően tetszett volna. 
+
+Aida és Nia kezdetekben a helység biztonsági rendszerén dolgozott, és mivel a nagy tervezésben és munkálatokban egyiküknek sem jutott az eszébe, hogy szóljanak az aktuális projektről, így meglehetősen gyakoriak voltak a kisebb-nagyobb robbanások. A csapat rá szokott arra, hogy, amikor belépnek az üzletükbe, mindig szólnak egymásnak, hogy "Vigyázz hová lépsz!"
+Ez az egy mondat olyannyira ráragadt a társaságra, hogy elkezdték magukra venni, míg végül egyöntetűen megszavazták, hogy ez legyen a vállalkozás elnevezése.
+
+Szóval a Vigyázz hová lépsz! társaság indulása viszonylag nehezen ment. Tudták, hogy elsődleges céljuk a Hagyatékok gyűjtése lesz, de, hogy miként és hogyan jutnak el egyik pontról a másikra, azt apró lépésenként tudták csak megtenni. Kezdetben futárszolgálatként működtek, az új autóval ez meglehetősen sikeresnek bizonyult, hiszen mindenkinél gyorsabban el tudtak szállítani leveleket, csomagokat és egyéb szállításra váró árukat az ügyfeleknek. Nem mindig használták az autót, de mikor késésben voltak, nagy segítségükre szolgált. Ha nem szállítottak Squark főleg fejvadászat után érdeklődött, illetve a halottvilági fegyverek gyártásának elindításával foglalatoskodott.
+
+Ez idő alatt Aida a szabadidejében főleg a PDA megismerésével, illetve átprogramozásával foglalkozott, melynek köszönhetően megtudták az első bajnok ereklyéjének pontos helyét, valamint egy térképet is képes volt megalkotni hozzá. Információik alapján az ereklye az Arupakák világában egy hegyen belül elhelyezkedő völgyben található, melyet a világ legnagyobb farmterülete borít be. A hegy lábánál lévő városból indulva egy kitáblázott kereskedelmi út vezet arrafelé.
+
+Aidának sikerült találnia egy kisebb munkát, mely tekercsek szállítását kéri a szerzetesekhez különösen magas fizettséget ígérve. Ezt elvállalva meg is kezdték a szükséges előkészületeket. Aida elkészítette az Elemetál Ellenálló Ruhát, mely valamilyen okból képes volt a hidegben meleget, a melegben hideget biztosítania használójának. Aida maga sem tudja pontosan hogy rakta össze, azt gondolta, hogy bizonyára az elsők technológiájának köszönhető, hogy ilyen különleges darabot tudott megalkotni. Flavusz a kocsit, az ellátmányokat készítette össze és azt is el keleltt dönteni, hogy mely csapattársak jönnek velünk, illetve maradnak hátra. Végül az a döntés született, hogy Zora és Nia jönnek velünk, míg Skiira hátra marad és vigyáz az üzletre.
+
+A hegy lábáig a kocsival jutottak el, ott kellett rájönniük, hogy onnantól kezdve gyalog vagy hátasokon kell tovább menniük. A kis csapat azt találta ki, hogy Nia marad a hegy lábánál a kocsival, míg Zora,Aida és Squark szamárháton indulnak el a következő városba. Így is történt hát. Az út során kiderült, hogy Aidának tériszonya van, így, ahogy egyre magasabbra és magasabbra értek a lány egyre rosszabbul lett. Azonban a figyelmét ez sem tudta elterelni, ugyanis a sziklás tájat elnézve arra lett figyelmes, hogy bizonyos sziklák, köveknek arc formájuk van. Ezt az észrevételt megosztotta a többiekkel is, ám nem tűnt túl nagy jelentőségűnek. Egészen addig, ameddig egy 4 feketeruhás útonálló meg nem támadta őket. 
+
+(Az itt lejátszódó harc nincs lejegyzetelve nálam, de azt hiszem itt volt az, hogy egyet Flavusz lelökött a szirtről, volt két távolsági, egy meg lándzsával döfködte Aidát, aki közben deafended és blinded lett :D Majd segítsetek kiegészíteni! <3)
+

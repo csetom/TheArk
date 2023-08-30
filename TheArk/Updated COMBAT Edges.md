@@ -1,0 +1,26 @@
+---
+tags: Edges
+---
+- BLOCK [S, Fighting d8] 1 Parry, ignore 1 point of Gang Up bonus.
+- IMPROVED BLOCK [V, Block] +2 Parry, ignore 2 points of Gang Up bonus.
+- BRAWLER [N, St d8, V d8] Toughness +1, add d4 to damage from fists; or increase it a die type if combined with Martial Artist, Claws, or similar abilities.
+- BRUISER [S, Brawler] Increase unarmed Strength damage a die type and Toughness another +1.
+- COUNTERATACK [S, Fighting d8] Free attack against one foe per turn who failed a Fighting roll.
+- IMPROVED COUNTERATTACK [V, Counterattack] As Counterattack, but against three foes per turn.
+- DODGE [S, A d8] -2 to be hit by ranged attacks. No longer modifies Evasion (see Improved Dodge).
+- IMPROVED DODGE [S, Dodge] +2 to Evasion totals.
+- EXTRACTION [N, A d8] One adjacent foe doesn’t get a free attack when you withdraw from close combat.
+- IMPROVED EXTRACTION [S, Extraction] Three adjacent foes don’t get free attacks when you withdraw from combat.
+- FIRST STRIKE [N, A d8] Free Fighting attack once per round when foe moves within Reach.
+- IMPROVED FIRST STRIKE [H, First Strike] Free Fighting attack against up to three foes when they move within Reach.
+- FRENZY [S, Fighting d8] Roll a second Fighting die with one melee attack per turn.
+- IMPROVED FRENZY [V, Frenzy] Roll a second Fighting die with up to two melee attacks per turn.
+- KILLER INSTICT [S] The hero gets a free reroll in any opposed Test he initiates.
+- MARKSMAN [S, Athletics or Shooting d8] Ignore up to 2 points of Athletics (throwing) or Shooting penalties when not moving and firing no more than RoF 1 per action.
+- MARTIAL ARTIST [N, Fighting d6] Unarmed Fighting +1, fists and feet count as Natural Weapons, add d4 damage die to unarmed Fighting attacks (or increase die a step if you already have it).
+- MARTIAL WARRIOR [S, Martial Artist] Unarmed Fighting +2, increase damage die type a step.
+- NO MERCY [S] +2 damage when spending a Benny to reroll damage.
+- SWEEP [N, St d8, Fighting d8] Fighting roll at –2 to hit all targets in weapon’s Reach, no more than once per turn.
+- TRADEMARK WEAPON [N, d8 in related skill] +1 to Athletics (throwing), Fighting, or Shooting total with a specific weapon; +1 Parry while weapon is readied.
+- IMP. TRADEMARK WEAPON [S, Trademark Weapon] The attack and Parry bonus increases to +2.
+- TWO-GUN KID [N, A d8] Make one extra Shooting or Athletics (throwing) roll with a second ranged weapon in the off-hand at no Multi-Action penalty.

@@ -1,0 +1,15 @@
+---
+tags: Szerzetesek
+---
+- No power point (+4)
+- No arcanae device  (+0)
+-- Every Arcane Background has access to Arcane Devices. However, you can decide an Arcane Background can’t use Arcane Devices. The impact is small and doesn’t grant any negative points of Arcane Features. Instead, make sure this Arcane Background has interesting Dedicated Edges.
+- Loud and clear (-1/2)
+-- The Arcane Background requires loud chants and precise movements from both hands (and sometimes even their body, like dancing) to activate powers. He can’t do so if Bound, nor when wielding weapons or carrying a shield (he is considered Unarmed Defender, unless he has Natural Weapons). 
+-- The silence power does not prevent them  from casting. Talking loud is to make sure you use the right word with the right pronunciation and to channel the right amount of energy in the process. It doesn’t matter if noone can hear you.
+- Slow Cast (-1/2)
+--  Power activation is an action that takes he caster’sentire turn — she cannot perform Multi-Actions nor Run.
+- SHARED ARCANE SKIL: performance (1/2)
+- EXTENDED CAST  additon to Instant Cast (1/2)
+-- During an Extended Cast, a power activation takes one full minute to execute but the power’s base Duration lasts 10 times longer. A 5 rounds Duration (deflection, empathy) now lasts 5 minutes. Disguise (10 minutes) now lasts nearly two hours (100 minutes). Darksight (1 hour) now lasts 10 hours.
+- STARTING POWERS: 3 db (+3)

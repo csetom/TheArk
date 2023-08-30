@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "410471bd5ff4699f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3fd62e32f2fe212",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f544137a2ebb0719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TheArk/Arupaka.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0caca1c499edd3c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2f82eaa1601a085",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e5865b26b90b96b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0437c52a4d115eda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Fajok",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bceea7fac8b88382",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30be35676ca9c2a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9ec61dd87a9dc3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23d430ece8e03130",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TheArk/Arupaka.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c510a510120e4eb7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eea29d7644332ec1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TheArk/Arupaka.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0e5865b26b90b96b",
+  "lastOpenFiles": [
+    "TheArk/ARISTOCRAT.md",
+    "TheArk/Arupaka.md",
+    "TheArk/Arupakák világa.md",
+    "TheArk/Az apokalipszis előtti idő.md",
+    "TheArk/Az Egyház.md",
+    "TheArk/Bányaváros.md",
+    "TheArk/Bárka - Session 1 (2021.08.20.).md",
+    "TheArk/Zonniret.md",
+    "TheArk/Anguigena.md",
+    "Untitled",
+    "TheArk/Avara.md",
+    "TheArk/Burkok.md",
+    "TheArk/soldier.md",
+    "TheArk/style.md",
+    "TheArk/system.md",
+    "TheArk/Tag.md",
+    "TheArk/outdoor.md",
+    "TheArk/neighborhood.md",
+    "TheArk/npc.md",
+    "TheArk/Lebegő szigetek.md",
+    "TheArk/Vízi világ.md",
+    "TheArk/Nem hasznalt Edge (csak ujak eseten).md",
+    "TheArk/Updated Weird Edges.md",
+    "TheArk/Updated Social Edges.md",
+    "TheArk/Updated Legendary Edges.md",
+    "TheArk/Updated Professional Edges.md",
+    "TheArk/Updated Leadership Edges.md",
+    "TheArk"
+  ]
+}

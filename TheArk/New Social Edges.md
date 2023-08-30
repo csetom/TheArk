@@ -1,0 +1,14 @@
+---
+tags: Edges
+---
+- BOLSTER [N, Sp d8] May remove Distracted or Vulnerable state after a Test.
+- HUMILIATE [N, Taunt d8] Free reroll when making Taunt rolls.
+- MENACING [N, See Text] +2 to Intimidation.
+- PROVOKE [N, Taunt d6] May “provoke” foes with a raise on a Taunt roll. See text.
+- RABBLE-ROUSER [S, Spirit d8] Once per turn, affect all foes in a Medium Blast Template with an Intimidation or Taunt Test.
+- RELIABLE [N, Sp d8] Free reroll when making Support rolls.
+- RETORT [N, Taunt d6] A raise when resisting a Taunt or Intimidation attack makes the foe Distracted.
+- STREETWISE [N, Sm d6] +2 to Common Knowledge and criminal networking.
+- IRON WILL [N, Strong Willed] The bonus now applies to resisting and recovery from powers.
+- WORK THE ROOM [N, Sp d8] Once per turn, roll a second die when Supporting via Performance or Persuasion and apply result to additional ally.
+- WORK THE CROWD [S, Work the Room] As above, but up to twice per turn

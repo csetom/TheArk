@@ -1,0 +1,13 @@
+---
+tags: Edges
+---
+- Gadgeteer, Holy/Unholy Warrior, Mentalist, and Wizard are now Power Edges.
+- ACE [N, A d8] Character may spend Bennies to Soak damage for his vehicle and ignores up to 2 points of penalties.
+- ACROBAT [N, A d8, Athletics d8] Free reroll on acrobatic Athletics attempts.
+- COMBAT ACROBAT [S, Acrobat] -1 to hit with ranged and melee attacks.
+- ASSASSIN [N, A d8, Fighting d6, Stealth d8] +2 to damage foes when Vulnerable or assassin as The Drop.
+- INVESTIGATOR [N, Sm d8, Research d8] +2 to Research and certain types of Notice rolls.
+- JACK-OF-ALL-TRADES [N, Sm d10] Gain d4 in a skill (or d6 with a raise) until replaced.
+- MR. FIX IT [N, Repair d8] +2 to Repair rolls, half the time required with a raise.
+- SCHOLAR [N, Research d8] +2 to any one “knowledge” skill.
+- THIEF [N, A d8, Stealth d6, Thievery d6] +1 Thievery, Athletics rolls made to climb, Stealth in urban environments.

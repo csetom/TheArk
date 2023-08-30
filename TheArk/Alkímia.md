@@ -1,0 +1,4 @@
+---
+tags: [[Energia Hálózat]]
+---
+Az alkímia egy sokkal természetesebb módja a hálózat használatának. Az alkímiával a mágia használó egyenlő mennyiségű energiát, ad bele a hálózatba, hogy ugyanannyit ki is vegyen belőle, és felhasználhassa másra. Például egy edény felmelegítéséhez létrehozok egy kapcsolatot az edény, és az körülöttem lévő homok hője között, és ezzel a homok meleg energiáját beleadom a rendszerbe, hogy az edényemben lévő víz felmelegedjen. Ez a példa egy egyszerűbb használata az alkímiának. Maga a tudomány nagyon sok ágazatban elválik, és folyamatos kutatások zajlanak, mely kapcsolat mennyire előnyös vagy eredményes, valamint mi mennyire egyenértékű a cserében. Az alkímia nem piszkál bele a hálózatokba, mint a [[Varázslók mágiája]], viszont sokkal körülményesebb is a használata, és hasonlóan sokat kell tanulni, hogy a mágia használó mestere legyen ennek a tudománynak. 
